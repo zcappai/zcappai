@@ -12,7 +12,7 @@
 ### How to reach me:
 
 <img href="https://www.linkedin.com/in/akhileshpai/" align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhileshpai/)
+[![LinkedIn-0077B5.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhileshpai/)
 <br />
 
 ### Languages:
