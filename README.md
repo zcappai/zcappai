@@ -17,7 +17,7 @@
 
 ### Languages:
 
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/akhileshpai/)
+![https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://www.linkedin.com/in/akhileshpai/)
 <img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Java" height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="C" height="25px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
