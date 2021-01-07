@@ -1,6 +1,6 @@
 ### Hi there, I'm Akhilesh 👋
 
-## I'm an MSc Computer Science Student at the University of Bath!
+## I'm an MSc Computer Science student at the University of Bath!
 
 - Feel free to look through the repositories below
 - I’m currently creating my portfolio website
