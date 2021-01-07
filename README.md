@@ -5,9 +5,9 @@
 - Feel free to look through the repositories below
 - I’m currently creating my portfolio website
 - My current goals:
-  - Completed MSc Computer Science
+  - Complete MSc Computer Science
   - Starting working as a Software Developer
-- Fun fact: I am currently learning Unity to make my own survival game based on The Long Dark
+- Fun fact: I am currently learning Unity to make my own survival game based on <a href="https://youtu.be/q4_h8GyIWkM">The Long Dark</a>
 
 ### How to reach me:
 
