@@ -7,7 +7,7 @@
 - My current goals:
   - Complete MSc Computer Science
   - Starting working as a Software Developer
-- Fun fact: I am currently learning Unity to make my own survival game based on <a href="https://youtu.be/q4_h8GyIWkM" target="_blank">The Long Dark</a>
+- Fun fact: I am currently learning Unity to make my own survival game based on <a href="https://youtu.be/q4_h8GyIWkM" target="_top">The Long Dark</a>
 
 ### How to reach me:
 
