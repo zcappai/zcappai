@@ -10,7 +10,7 @@
 - Fun fact: I am currently learning Unity to make my own survival game based on [The Long Dark](https://youtu.be/q4_h8GyIWkM){:target="_blank"}
 
 ### How to reach me:
-markdown: kramdown
+
 <a href="https://www.linkedin.com/in/akhileshpai/"><img align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/>
