@@ -3,7 +3,7 @@
 ## I'm an MSc Computer Science student at the University of Bath!
 
 - Feel free to look through the repositories below
-- I’m currently creating my portfolio website
+- I’m currently creating a program that utilises the OpenWeatherMap API to give the current weather in a given city
 - My current goals:
   - Complete MSc Computer Science
   - Starting working as a Software Developer
