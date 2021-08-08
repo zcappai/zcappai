@@ -3,10 +3,10 @@
 ## I'm an MSc Computer Science student at the University of Bath!
 
 - Feel free to look through the repositories below
-- I’m currently creating a program that utilises the OpenWeatherMap API to give the current weather in a given city
+- I'm currently creating a program that utilises the OpenWeatherMap API to give the current weather in a given city
 - My current goals:
   - Complete MSc Computer Science
-  - Starting working as a Software Developer
+  - Start working as a Software Developer at Oxford Computer Consultants
 - Fun fact: I am currently learning Unity to make my own survival game based on The Long Dark
 
 ### How to reach me:
