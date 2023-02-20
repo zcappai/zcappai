@@ -4,10 +4,17 @@
 
 - Feel free to look through the repositories below
 - I'm currently creating a program that utilises the OpenWeatherMap API to give the current weather in a given city
+- Achieved goals:
+  - Completed BSc Physics
+  - Completed MSc Computer Science
+  - Start as a Graduate Software Developer at Oxford Computer Consultants
+  - Became a Software Developer after 1 year
+  - Created a home media server using a Raspberry Pi
 - My current goals:
-  - Complete MSc Computer Science
-  - Start working as a Software Developer at Oxford Computer Consultants
-- Fun fact: I am currently learning Unity to make my own survival game based on The Long Dark
+  - Gain AZ-900 Azure Fundamentals certification
+  - Start learning Unreal Engine
+  - Create a NAS server to store my photos and videos
+  - Create a CV website to showcase my work
 
 ### How to reach me:
 
