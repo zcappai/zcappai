@@ -24,7 +24,9 @@
 
 ### Technologies:
 
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</picture>
 
 <a><img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img align="left" alt="Java" height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
