@@ -10,9 +10,9 @@
   - Start as a Graduate Software Developer at Oxford Computer Consultants
   - Became a Software Developer after 1 year
   - Created a home media server using a Raspberry Pi
+  - Gained AZ-900 Azure Fundamentals certification
+  - Started learning Unreal Engine
 - My current goals:
-  - Gain AZ-900 Azure Fundamentals certification
-  - Start learning Unreal Engine
   - Create a NAS server to store my photos and videos
   - Create a CV website to showcase my work
 
