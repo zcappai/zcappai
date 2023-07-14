@@ -1,6 +1,6 @@
 ### Hi there, I'm Akhilesh 👋
 
-## I'm an MSc Computer Science student at the University of Bath!
+## I'm a Software Developer at OCC!
 
 - Feel free to look through the repositories below
 - I'm currently creating a program that utilises the OpenWeatherMap API to give the current weather in a given city
@@ -15,6 +15,7 @@
 - My current goals:
   - Create a NAS server to store my photos and videos
   - Create a CV website to showcase my work
+  - Create a website that uses APIs from various banks to view transactions
 
 ### How to reach me:
 
