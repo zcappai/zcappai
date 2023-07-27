@@ -27,7 +27,7 @@
 ### Experience:
 | Language | Experience |
 | ----------- | ----------- |
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img align="left" alt="TypeScript" height="25px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><div><img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white.svg" />
 <a href="#"><img align="left" alt="TypeScript" height="25px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="#"><img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white.svg" /></a>
 <a href="#"><img align="left" alt="Java" height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
