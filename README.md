@@ -26,8 +26,4 @@
 
 
 ## Languages  & Technologies:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=ts,py,java,cs,c,haskell,html,css,latex,md,js,react,vscode,visualstudio,sqlite,nodejs,azure,unreal,docker,jest,git,dotnet,express,css&perline=6&theme=dark" />
-  </a>
-</p>
+![Languages and technologies](https://skillicons.dev/icons?i=ts,py,java,cs,c,haskell,html,css,latex,md,js,react,vscode,visualstudio,sqlite,nodejs,azure,unreal,docker,jest,git,dotnet,express,css&perline=6&theme=dark)
