@@ -23,3 +23,7 @@
 
 ### Languages  & Technologies:
 ![Languages and technologies](https://skillicons.dev/icons?i=ts,py,java,cs,c,haskell,html,css,latex,md,js,react,vscode,visualstudio,sqlite,nodejs,azure,unreal,docker,jest,git,dotnet,express,css&perline=6&theme=dark)
+
+### GitHub stats:
+![Top lanugages](https://github-readme-stats-zcappai.vercel.app/api/top-langs/?username=zcappai&langs_count=10&theme=tokyonight&hide=jupyter%20notebook)
+![GitHub stats](https://github-readme-stats-zcappai.vercel.app/api?username=zcappai&show_icons=true&theme=tokyonight)
