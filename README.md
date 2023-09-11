@@ -25,9 +25,5 @@
 ![Languages and technologies](https://skillicons.dev/icons?i=ts,py,java,cs,c,haskell,html,css,latex,md,js,react,vscode,visualstudio,sqlite,nodejs,azure,unreal,docker,jest,git,dotnet,express,css&perline=6&theme=dark)
 
 ### GitHub stats:
-<a>
-  <img align="center" src="https://github-readme-stats-zcappai.vercel.app/api/top-langs/?username=zcappai&langs_count=20&theme=tokyonight&hide=jupyter%20notebook,tex&size_weight=0.5&count_weight=0.5&layout=donut" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats-zcappai.vercel.app/api?username=zcappai&show_icons=true&theme=tokyonight" />
-</a>
+| <a><img align="center" src="https://github-readme-stats-zcappai.vercel.app/api/top-langs/?username=zcappai&langs_count=20&theme=tokyonight&hide=jupyter%20notebook,tex&size_weight=0.5&count_weight=0.5&layout=compact" /></a> | <a><img align="center" src="https://github-readme-stats-zcappai.vercel.app/api?username=zcappai&show_icons=true&theme=tokyonight" /></a> |
+| ------------- | ------------- |
