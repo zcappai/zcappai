@@ -12,10 +12,10 @@
   - Created a home media server using a Raspberry Pi
   - Gained AZ-900 Azure Fundamentals certification
   - Started learning Unreal Engine
+  - Create a website that uses APIs from various banks to view transactions
 - My current goals:
   - Create a NAS server to store my photos and videos
-  - Create a CV website to showcase my work
-  - Create a website that uses APIs from various banks to view transactions
+  - Create a game from scratch in Unreal Engine
 
 ### How to reach me:
 <a href="https://www.linkedin.com/in/akhileshpai/"><img align="left" alt="LinkedIn" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
